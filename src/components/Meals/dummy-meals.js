@@ -19,7 +19,7 @@ const DUMMY_MEALS = [
   },
   {
     id: 'm4',
-    name: 'Green Bowl',
+    name: 'Green Bowlll',
     description: 'Healthy...and green...',
     price: 18.99,
   },
